@@ -1,0 +1,26 @@
+@import 'lips/bootstrap-reboot.min';
+@import 'lips/slick';
+@import 'lips/animate';
+
+
+@import 'base/animation';
+.container {
+    position: relative;
+    max-width: 950px;
+    margin: 0 auto;
+
+}
+@import 'block/advantages';
+@import 'block/buttons';
+@import 'block/carousel';
+@import 'block/catalog';
+@import 'block/consultation';
+@import 'block/feed';
+@import 'block/footer';
+@import 'block/forms';
+@import 'block/header';
+@import 'block/modal';
+@import 'block/promo';
+@import 'block/titles';
+@import 'block/pageup';
+
